@@ -97,7 +97,7 @@
 - [PPCs](https://github.com/Perl/PPCs) - Proposed Perl Changes is proposals to change the Perl language.
 - [DIPs](https://github.com/dlang/DIPs) - D language Improvement Proposals.
 - [GEPs](https://groovy.apache.org/wiki/geps.html) - Groovy Enhancement Proposals and Issues tracked in Jira.
-- [Vlang RFCs](https://github.com/vlang/rfcs) -  RFCs for changes to V lang.
+- [Vlang RFCs](https://github.com/vlang/rfcs) - RFCs for changes to V lang.
 
 ## Tools
 
