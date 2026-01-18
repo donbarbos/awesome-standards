@@ -151,6 +151,7 @@
 - [CAIPs](https://github.com/ChainAgnostic/CAIPs) - Chain Agnostic Improvement Proposals.
 - [AIPs](https://governance.aptosfoundation.org/) - Aptos Improvement Proposals.
 - [HIPs](https://github.com/helium/HIP) - Helium Improvement Proposals.
+- [HCS](https://github.com/hiero-ledger/hiero-consensus-specifications) - Hiero Consensus Standards.
 - [MIPs](https://github.com/makerdao/mips) - Maker Improvement Proposals.
 - [SNIPs](https://github.com/starknet-io/SNIPs) - Starknet Improvement Proposals.
 - [Nervos Network RFCs](https://github.com/nervosnetwork/rfcs) - Proposals, standards and documentations related to Nervos Network.
