@@ -130,6 +130,7 @@
 - [SemVer Spec](https://semver.org/) - Semantic Versioning Specification.
 - [CalVer Spec](https://calver.org/) - Calendar Versioning Specification.
 - [OpenAutoComplete Spec](https://github.com/openautocomplete/openautocomplete) - CLI autocomplete specification.
+- [Agent-First CLI Specs](https://cli-specs.intrane.fr) - Four open MIT specs for agent-driven CLIs: output contract (stdout=data, stderr=context, semantic exit codes, typed errors, help-json), guide command (embedded mental model), feedback command (dual-write relay), self-update (content-hash, atomic swap).
 
 ## Decentralized Systems
 
