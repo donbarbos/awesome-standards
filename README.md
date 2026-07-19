@@ -193,6 +193,7 @@
 ## Databases and Storage
 
 - [CEPs](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=95652201) - Cassandra Enhancement Proposals.
+- [PAM](https://portable-ai-memory.org) - Portable AI Memory is an open interchange format specification for AI user memories. Defines JSON schemas for structured memories, conversation logs, and embeddings with integrity verification.
 - [SPIPs](https://spark.apache.org/improvement-proposals.html) - Spark project improvement proposals.
 
 ## Telecommunications
